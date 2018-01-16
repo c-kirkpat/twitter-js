@@ -11,4 +11,4 @@ app.get('/',(req, res, next)=> {
 })
 app.get('/news',(req, res, next)=>res.send('THE NEWS'))
 
-app.listen(3000,()=>console.log('Listening'))
+app.listen(3000,()=>console.log('Listening more'))
