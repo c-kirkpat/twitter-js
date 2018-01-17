@@ -57,3 +57,10 @@ code {
 .content .by {
   font-weight: bold;
 }
+#tweets {
+    list-style-type: none;
+    padding: 15px;
+}
+#profile-pic{
+    content:url("http://lorempixel.com/48/48");
+}
